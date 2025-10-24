@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #b8e95e;
+    background-color: #99c24c;
     margin: 0;
     padding: 0;
 }
@@ -11,4 +11,13 @@ h2 {
     margin-top: 50px;
     text-transform: uppercase;
     letter-spacing: 2px;
+    border: 2px solid #057570;
+    padding: 10px;
+    border-radius: 90px;
+}
+h3 {
+    color: #134b0c;
+    text-align: center;
+    margin-top: 20px;
+    font-style: italic;
 }
